@@ -1,0 +1,7 @@
+Size does not update correctly after removeFront
+
+Size does not update correctly after removeBack
+
+addBack method is actually just performing addFront
+
+removeFront method is actually just performing removeBack
